@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
   <name>default-value-setting</name>
-  <uuid>988ccea9-25e6-4caf-a5e7-cfc0f37e3b40</uuid>
+  <uuid>b20f410b-4599-444c-8647-e53e669fe23b</uuid>
   <locale>en_US</locale>
   <definition><![CDATA[
     set 'the gender' to "Male" ;]]></definition>

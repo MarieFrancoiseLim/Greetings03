@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
   <name>Gender</name>
-  <uuid>864789de-24ef-43c2-95e1-5a90cfa66c95</uuid>
+  <uuid>90f9d358-4fc6-4b44-9718-40e9ab290c32</uuid>
 </ilog.rules.studio.model.base:RulePackage>

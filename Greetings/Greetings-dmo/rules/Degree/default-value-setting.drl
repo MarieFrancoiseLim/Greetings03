@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
   <name>default-value-setting</name>
-  <uuid>8d6e414e-5e87-44b4-a632-6b0225adba10</uuid>
+  <uuid>b9471ebf-4ab8-4bc0-9dc5-d30444dfecfb</uuid>
   <locale>en_US</locale>
   <definition><![CDATA[set 'the degree' to "" ;]]></definition>
 </ilog.rules.studio.model.brl:ActionRule>

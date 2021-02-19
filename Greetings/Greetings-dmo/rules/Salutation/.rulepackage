@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
   <name>Salutation</name>
-  <uuid>5f6d4d57-88f9-481d-a2c8-f387dcc8fbe9</uuid>
+  <uuid>3be74e01-116c-44eb-975e-0f0334635326</uuid>
 </ilog.rules.studio.model.base:RulePackage>

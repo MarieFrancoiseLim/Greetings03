@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
   <name>default-value-setting</name>
-  <uuid>a83e8770-6291-4c06-954b-3d2e3795cff3</uuid>
+  <uuid>48d231c9-8d83-4fbd-84de-46bb82082b06</uuid>
   <locale>en_US</locale>
   <definition><![CDATA[
     set 'the hour' to 10 ;]]></definition>

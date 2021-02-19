@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.greetings:Greetings_DataModel" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
   <name>Greetings_DataModel</name>
-  <uuid>6d4b6e4c-4a23-4ca4-9a24-aab9fd2a0416</uuid>
+  <uuid>e5d21cac-04b2-4ea4-b85d-90b967b86e03</uuid>
   <locales>en_US</locales>
   <versionPolicies label="Increment minor version numbers" ruleset="INCREMENT_MINOR" default="true" recurrent="true">
     <description><![CDATA[Updates the minor version for each ruleset. Makes the new version available but retains previous versions.]]></description>

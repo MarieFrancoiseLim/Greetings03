@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
   <name>salutation</name>
-  <uuid>1eb8ba07-a1e0-4d53-a5dc-580abb8f32f1</uuid>
+  <uuid>9dadd364-6bd9-4edb-8b9a-9ae157d3c419</uuid>
   <locale>en_US</locale>
   <definition><![CDATA[set decision to 'the greeting' + ", " + 'the courtesy title' + " " + 'the name' + "!" ;
 print decision ;]]></definition>

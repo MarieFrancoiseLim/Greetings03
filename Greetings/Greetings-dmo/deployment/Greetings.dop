@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="Greetings" targetRuleProjectName="Greetings-dmo">
   <name>GreetingsDecision</name>
-  <uuid>bab6fe7e-6c37-4240-bd0e-53ca63fd9008</uuid>
-  <decisionModel href="../rules/Greetings.dmo#48adcbf2-dc41-462a-aab8-596b54a6c21a"/>
-  <targetRuleProject href="../../Greetings-dmo#df747b5d-9bb9-4eaa-bede-c69f8a9a7057"/>
+  <uuid>dcc3a596-de8c-4bd1-b882-cff0cb4f77a3</uuid>
+  <decisionModel href="../rules/Greetings.dmo#bf77e54e-d7f8-4aec-ba43-bc67239c431e"/>
+  <targetRuleProject href="../../Greetings-dmo#8b8d86b5-16d9-43d5-a5b5-4350c9645e20"/>
 </com.ibm.rules.studio.model.decisionservice:Operation>
